@@ -8,7 +8,7 @@ fake-factory==0.4.2
 
 xtraceback==0.4.0-rc1
 rudolf2==0.3
-pylint==1.2.1
+pylint==2.5.0
 clonedigger==1.1.0
 autopep8==1.0.4
 pep8ify==0.0.12
